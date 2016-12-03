@@ -1,3 +1,7 @@
+//StringTokenizer.cpp
+//By Simon Karasik, 2016, senich10@mail.ru
+//GitHub: https://github.com/minotru/StringTokenizer
+
 #include "StringTokenizer.h"
 #include <string>
 #include <vector>
