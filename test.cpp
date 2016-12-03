@@ -1,7 +1,6 @@
 #include <string>
 #include <iostream>
 #include <vector>
-#include <cstring>
 
 #include "StringTokenizer/StringTokenizer.h"
 
