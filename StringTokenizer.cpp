@@ -5,7 +5,6 @@
 #include "StringTokenizer.h"
 #include <string>
 #include <vector>
-#include <iostream>
 
 const std::string StringTokenizer::DEFAULT_DELIM = " \t\n\r\f";
 
