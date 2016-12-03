@@ -3,6 +3,7 @@
 
 //This class is c++ implementation of Java StringTokenizer class.
 //By Simon Karasik, 2016, senich10@mail.ru
+//GitHub: https://github.com/minotru/StringTokenizer
 
 #include <string>
 #include <vector>
