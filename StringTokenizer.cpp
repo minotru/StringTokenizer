@@ -75,7 +75,7 @@ bool StringTokenizer::isDelim(char c)
     return m_delim.find(c) != std::string::npos;
 }
 
-{//!@return The position of the token beginning or std::string::npos, if no token found.
+//!@return The position of the token beginning or std::string::npos, if no token found.
 size_t StringTokenizer::nextTokenPos(size_t searchFrom, size_t& tokLen)
 {
     size_t charPos = m_str.find_first_not_of(m_delim, searchFrom),
